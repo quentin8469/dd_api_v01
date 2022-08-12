@@ -1,0 +1,6 @@
+envdonj
+__pycache__/
+db.sqlite3
+.env
+.idea/
+media/
